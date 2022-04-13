@@ -1,0 +1,4 @@
+/home/izaias/Documents/pessoal/git/github/temps/qt-osg/build/CMakeFiles/rebuild_cache.dir
+/home/izaias/Documents/pessoal/git/github/temps/qt-osg/build/CMakeFiles/edit_cache.dir
+/home/izaias/Documents/pessoal/git/github/temps/qt-osg/build/CMakeFiles/qtosg.dir
+/home/izaias/Documents/pessoal/git/github/temps/qt-osg/build/CMakeFiles/qtosg_autogen.dir
